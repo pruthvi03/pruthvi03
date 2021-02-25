@@ -1,9 +1,13 @@
-### Hi there 👋
 
-<!--
-**pruthvi03/pruthvi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, folks! 
+My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can find me on [LinkedIn](www.linkedin.com/in/pruthvi-hingu-174521194)
 
-[[![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthvi03)(https://github.com/anuraghazra/github-readme-stats)]
-[!Pruthvi stats](https://github-readme-stats.vercel.app/api?username=pruthvi03&show_icons=true&theme=radical)
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi03)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/pruthvi03/pruthvi03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi03&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/pruthvi03/pruthvi03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvi03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
