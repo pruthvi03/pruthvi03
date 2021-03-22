@@ -1,6 +1,6 @@
 
-# Hello, folks! 
-My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can find me on www.linkedin.com/in/pruthvi-hingu-174521194
+# Hello, folks! [![GitHub pruthvi03](https://img.shields.io/github/followers/pruthvi03?label=follow&style=social)](https://github.com/pruthvi03)
+My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can find me on LinkedIn [![Linkedin: pruthvi-hingu](https://img.shields.io/badge/-pruthvi03-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-hingu-174521194)](https://www.linkedin.com/in/pruthvi-hingu-174521194)
 
 ## ⚡ Technologies
 
