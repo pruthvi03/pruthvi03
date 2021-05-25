@@ -65,3 +65,7 @@ My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can fin
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
+
+## 🖤 Visitors
+![Visitor Count](https://profile-counter.glitch.me/pruthvi03/count.svg)
+
