@@ -23,6 +23,7 @@ My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can fin
 ## 🔭 I’m currently working on:
   1. Nodejs
   2. RaspberryPie
+  3. Web Scraping
 
 ## 🌱 I’m currently learning:
   1. Iamge Processing
@@ -34,10 +35,10 @@ My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can fin
 
 ## 💬 Ask me about:
   1. Python
-  2. Django
-  3. Nodejs
-  4. Android 
-  5. JavaScript
+  2. Nodejs
+  3. Android
+  4. JavaScript 
+  5. Web Scraping
 
 ## &#x1f4c8; GitHub Stats
 
