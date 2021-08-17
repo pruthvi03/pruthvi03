@@ -1,6 +1,6 @@
 
 # Hello, folks! [![GitHub pruthvi03](https://img.shields.io/github/followers/pruthvi03?label=follow&style=social)](https://github.com/pruthvi03)
-My name is Pruthvi Hingu and I'm a computer engineer. I'm from India You can find me on LinkedIn [![Linkedin: pruthvi-hingu](https://img.shields.io/badge/-pruthvi03-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-hingu-174521194)](https://www.linkedin.com/in/pruthvi-hingu-174521194)
+Self-motivated and experienced computer engineer with a demonstrated history of working in the internet industry. Skilled in Python, Android Development, Web development, and Computer Vision. Strong media and communication professional with a Bachelor of Engineering - BE focused in Computer Engineering.<br> You can find me on LinkedIn [![Linkedin: pruthvi-hingu](https://img.shields.io/badge/-pruthvi03-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-hingu-174521194)](https://www.linkedin.com/in/pruthvi-hingu-174521194)
 
 ## ⚡ Technologies
 
