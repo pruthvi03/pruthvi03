@@ -23,13 +23,13 @@ Self-motivated and experienced computer engineer with a demonstrated history of 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 
 ## 🔭 I’m currently working on:
-  1. Nodejs
-  2. RaspberryPie
+  1. Nodejs, Python
+  2. Google cloud platform
   3. Web Scraping
 
 ## 🌱 I’m currently learning:
-  1. Iamge Processing
-  2. Object Detection
+  1. React Native
+  2. React
 
 ## 🤔 I’m looking for help with:
   1. AWS
