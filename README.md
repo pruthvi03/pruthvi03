@@ -1,5 +1,5 @@
-
-# Hello, folks! [![GitHub pruthvi03](https://img.shields.io/github/followers/pruthvi03?label=follow&style=social)](https://github.com/pruthvi03)
+ 
+# Hello, folks!
 This is <b>Pruthvi Hingu</b> - Computer Engineer. Here, sharing my interesting projects. 
 <br/>Find me on linkedIn [![Linkedin: pruthvi-hingu](https://img.shields.io/badge/-pruthvi03-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-hingu-174521194)](https://www.linkedin.com/in/pruthvi-hingu-174521194)
 ## ⚡ Technologies
