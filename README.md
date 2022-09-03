@@ -7,6 +7,8 @@ This is <b>Pruthvi Hingu</b> - Computer Engineer. Here, sharing my interesting p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Nuxtjs](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
@@ -21,6 +23,8 @@ This is <b>Pruthvi Hingu</b> - Computer Engineer. Here, sharing my interesting p
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=Puppeteer)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ## 🔭 I’m currently working on:
   1. Nodejs, Python
